@@ -4,6 +4,8 @@
 <p color="black">Hello world! My name is Aleksey Vakht, and I'm WEB developer from rainy Saint-Petersburg
   <img src="https://github.com/AlekseyVakht/AlekseyVakht/blob/69f1087ae556873187d2be8000f680802f2e4c3d/images/icons8-rain.gif" alt="rain" width=32 height=32/>
 </p>
+<p>I'm beginner, but I wanna learn new things and get better!</p>
+<p>And my goal is to learn the zen of code</p>
 
 <h3>Stack</h3>
 <div>
