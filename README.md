@@ -7,11 +7,13 @@
 
 <h3>Stack</h3>
 <div>
-  <img src="https://github.com/AlekseyVakht/AlekseyVakht/blob/7bd185ae7b49b56826198044cc299cb3188118f7/images/visualstudiocode.svg" alt="VS" width=64 height=64/>
-  <img src="https://github.com/AlekseyVakht/AlekseyVakht/blob/5536a8f0dc0395b94259bdd7175ddfc035cb31db/images/javascript.svg" alt="JS" width=64 height=64/>
-  <img src="https://github.com/AlekseyVakht/AlekseyVakht/blob/7bd185ae7b49b56826198044cc299cb3188118f7/images/html5.svg" alt="HTML5" width=64 height=64/>
-  <img src="https://github.com/AlekseyVakht/AlekseyVakht/blob/7bd185ae7b49b56826198044cc299cb3188118f7/images/css3.svg" alt="CSS" width=64 height=64/>
-  <img src="https://github.com/AlekseyVakht/AlekseyVakht/blob/7bd185ae7b49b56826198044cc299cb3188118f7/images/react.svg" alt="React" width=64 height=64/>
-  <img src="https://github.com/AlekseyVakht/AlekseyVakht/blob/7bd185ae7b49b56826198044cc299cb3188118f7/images/webpack.svg" alt="Webpack" width=64 height=64/>
-  <img src="https://github.com/AlekseyVakht/AlekseyVakht/blob/7bd185ae7b49b56826198044cc299cb3188118f7/images/mongodb.svg" alt="MongoDB" width=64 height=64/>
+  <img src="images/visualstudiocode.svg" alt="VS" width=64 height=64/>
+  <img src="images/javascript.svg" alt="JS" width=64 height=64/>
+  <img src="images/html5.svg" alt="HTML5" width=64 height=64/>
+  <img src="images/css3.svg" alt="CSS" width=64 height=64/>
+  <img src="images/react.svg" alt="React" width=64 height=64/>
+  <img src="images/webpack.svg" alt="Webpack" width=64 height=64/>
+  <img src="images/mongodb.svg" alt="MongoDB" width=64 height=64/>
 </div>
+
+<img src="images/footer.png" alt="footerr"/>
