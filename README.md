@@ -15,9 +15,3 @@
   <img src="https://github.com/AlekseyVakht/AlekseyVakht/blob/7bd185ae7b49b56826198044cc299cb3188118f7/images/webpack.svg" alt="Webpack" width=64 height=64/>
   <img src="https://github.com/AlekseyVakht/AlekseyVakht/blob/7bd185ae7b49b56826198044cc299cb3188118f7/images/mongodb.svg" alt="MongoDB" width=64 height=64/>
 </div>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlekseyVakht&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlekseyVakht&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlekseyVakht&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlekseyVakht&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlekseyVakht&theme=dark&utcOffset=8)
